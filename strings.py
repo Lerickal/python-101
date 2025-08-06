@@ -1,5 +1,6 @@
 #strings
 #variable names are always lower case ekko_x_diana
+#to comment multi line use ''' before ''' after
 
 message = 'Hello World' #simpleString
 message2 = "Teemo's world" #apostrophy
